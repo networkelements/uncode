@@ -12,8 +12,8 @@ pause & exit/b
 scoop update * ; scoop cleanup *
 
 
-# scoop appsフォルダをスキャンしてリザルトを返す
-$appsdir = $env:USERPROFILE + "\scoop\apps"
+# scoop フォルダをスキャンしてリザルトを返す
+$appsdir = $env:USERPROFILE + "\scoop"
 Start-MpScan -ScanType CustomScan -ScanPath $appsdir
 
 
