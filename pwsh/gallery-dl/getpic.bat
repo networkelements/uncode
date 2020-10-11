@@ -20,7 +20,7 @@ $dllist          = $env:userprofile + "\desktop\scripts\gallery-dl\dlurl.txt"
 
 
 ## https://scoop.sh/
-## gallery-dlが初インストールの場合はコメントアウトを外す)
+## gallery-dlが初インストールの場合はコメントアウトを外す
 #Set-ExecutionPolicy RemoteSigned -scope CurrentUser
 #scoop install gallery-dl
 
