@@ -1,4 +1,3 @@
-
 #!/bin/sh
 
 url=`cat $HOMEdlurlall.txt`
