@@ -1,6 +1,6 @@
 #!/bin/sh
 
-url=`cat $HOMEdlurlall.txt`
+url=`cat $HOME/dlurlall.txt`
 history="$HOME/gallery-dl-history.bin"
 dl_directory="$HOME/gallery-dl/"
 send_directory="s3://mybucket/gallery-dl/"
