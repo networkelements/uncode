@@ -22,17 +22,13 @@ FILE
 
 s3cmd put --recursive $dl_directory $send_directory ; count=`ps -ef | grep $process_name | grep -v grep | wc -l`
 
-
-function deletedirectory() {
-    if [ $count = 0 ]; then
-        echo "$process_name is Down"
-        echo "Delete gallery-dl directory is Start"
-        rm -rf $dl_directory
-    else
-        echo "Disk space is OK"
-    fi
-}
-
-deletedirectory
+if [ $count = 0 ]; then
+    echo "$process_name is Down"
+    echo "Delete gallery-dl directory is Start"
+    rm -rf $dl_directory
+    echo "gallery-dl directory deleted"
+else
+    echo "Disk space is OK"
+fi
 
 exit
