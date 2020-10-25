@@ -1,5 +1,5 @@
 url=`cat dlurlall.txt`
-history="$HOME/gallery-dl-history.txt"
+history="$HOME/gallery-dl-history.bin"
 
 while read line
 do
