@@ -1,3 +1,4 @@
+
 #!/bin/sh
 
 url=`cat $HOMEdlurlall.txt`
@@ -15,21 +16,20 @@ while read line
 do
     gallery-dl $line --download-archive $history
     if [ $disk_limit01 -gt $area_limit01 ]; then
-	break
+        break
     fi
 done << FILE
-$url    
+$url
 FILE
 
 s3cmd put --recursive $dl_directory $send_directory
 
 if [ $count = 0 ]; then
-
-  echo "$process_name is Down"
-  echo "Delete gallery-dl directory is Start"
-  rm -rf $dl_directory
+    echo "$process_name is Down"
+    echo "Delete gallery-dl directory is Start"
+    rm -rf $dl_directory
 else
-  echo "Disk space is OK"
+    echo "Disk space is OK"
 fi
 
 exit
