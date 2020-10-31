@@ -1,6 +1,6 @@
 #!/bin/sh
 
-url=`cat $HOME/dlurlall.txt`
+url=`cat $HOME/dlurlall.txt | sed s/^/\"/ | sed s/\$/\"/`
 history="$HOME/gallery-dl-history.bin"
 dl_directory="$HOME/gallery-dl/"
 send_directory="s3://mybucket/gallery-dl/"
@@ -20,15 +20,34 @@ done << FILE
 $url
 FILE
 
+echo "Downloaded !!!"
+echo "------------------------------------"
+echo ""
+
+
 s3cmd put --recursive $dl_directory $send_directory ; count=`ps -ef | grep $process_name | grep -v grep | wc -l`
+
+
+echo "Uploaded to Objectstorage"
+echo "------------------------------------"
+echo ""
+
 
 if [ $count = 0 ]; then
     echo "$process_name is Down"
+    echo "------------------------------------"
+    echo ""
     echo "Delete gallery-dl directory is Start"
+    echo "------------------------------------"
+    echo ""
     rm -rf $dl_directory
     echo "gallery-dl directory deleted"
+    echo "------------------------------------"
+    echo ""
 else
     echo "Disk space is OK"
+    echo "------------------------------------"
+    echo ""
 fi
 
 exit
