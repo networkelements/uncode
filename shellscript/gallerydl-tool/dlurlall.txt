@@ -3,12 +3,14 @@ https://danbooru.donmai.us/posts?tags=alchemaniac
 https://danbooru.donmai.us/posts?tags=allenes
 https://danbooru.donmai.us/posts?tags=ask_%28askzy%29
 https://danbooru.donmai.us/posts?tags=azling
+https://danbooru.donmai.us/posts?tags=bee_%28deadflow%29
 https://danbooru.donmai.us/posts?tags=beijuu
 https://danbooru.donmai.us/posts?tags=criin
 https://danbooru.donmai.us/posts?tags=eleaaa
 https://danbooru.donmai.us/posts?tags=eorx
 https://danbooru.donmai.us/posts?tags=gebijiade_89
 https://danbooru.donmai.us/posts?tags=hao_%28patinnko%29
+https://danbooru.donmai.us/posts?tags=happitan_no_kona
 https://danbooru.donmai.us/posts?tags=heibaise_jiangshi
 https://danbooru.donmai.us/posts?tags=hug_%28yourhug%29
 https://danbooru.donmai.us/posts?tags=ibuki_notsu
@@ -29,6 +31,7 @@ https://danbooru.donmai.us/posts?tags=nagishiro_mito
 https://danbooru.donmai.us/posts?tags=norizc
 https://danbooru.donmai.us/posts?tags=ohara_tometa
 https://danbooru.donmai.us/posts?tags=realmbw
+https://danbooru.donmai.us/posts?tags=rokuwata_tomoe
 https://danbooru.donmai.us/posts?tags=sakura_koharu
 https://danbooru.donmai.us/posts?tags=shi-chen
 https://danbooru.donmai.us/posts?tags=skade
@@ -38,15 +41,20 @@ https://danbooru.donmai.us/posts?tags=terras
 https://danbooru.donmai.us/posts?tags=tomaru_%28tomal%29
 https://danbooru.donmai.us/posts?tags=ukai_saki
 https://danbooru.donmai.us/posts?tags=wataru_%28nextlevel%29
+https://nijie.info/members.php?id=1532455
+https://nijie.info/members.php?id=319563
 https://seiga.nicovideo.jp/user/illust/4073294
 https://seiga.nicovideo.jp/user/illust/441460
 https://twitter.com/08_sagace
 https://twitter.com/110_it
 https://twitter.com/11nuudoru
+https://twitter.com/11saicastle
+https://twitter.com/11saihouse
 https://twitter.com/20150108Kk
 https://twitter.com/428clv
 https://twitter.com/4me_4ma
 https://twitter.com/4sakana5
+https://twitter.com/6thbody
 https://twitter.com/7A4ys
 https://twitter.com/7H8ndV3Bea3EmQx
 https://twitter.com/7ked
@@ -253,6 +261,7 @@ https://twitter.com/a_la_koala
 https://twitter.com/aa_ijou
 https://twitter.com/adamant369
 https://twitter.com/akasaai
+https://twitter.com/akira_imagawa
 https://twitter.com/alapy334
 https://twitter.com/alde_hyde18
 https://twitter.com/alumican_al
@@ -277,6 +286,7 @@ https://twitter.com/bantosuzune
 https://twitter.com/basilst_1
 https://twitter.com/beat_pop
 https://twitter.com/beijuu545
+https://twitter.com/berryverrine
 https://twitter.com/betanonbeet
 https://twitter.com/bigdoorbig2
 https://twitter.com/bisonham
@@ -291,6 +301,7 @@ https://twitter.com/bunbonian
 https://twitter.com/butcha_u
 https://twitter.com/c7ife
 https://twitter.com/cabu73
+https://twitter.com/calicchio23
 https://twitter.com/candy_dokuro
 https://twitter.com/catponz
 https://twitter.com/ccguai
@@ -335,6 +346,7 @@ https://twitter.com/ewkk_
 https://twitter.com/execut3r
 https://twitter.com/fiiiiiiisuke
 https://twitter.com/flanvia
+https://twitter.com/freenote_mr
 https://twitter.com/frengchiano2
 https://twitter.com/frozen_oyu
 https://twitter.com/futat25
@@ -469,6 +481,7 @@ https://twitter.com/kzmt_6564
 https://twitter.com/l4st_resort
 https://twitter.com/l_ract
 https://twitter.com/la__pioggia
+https://twitter.com/laco_soregashi
 https://twitter.com/lalalalack
 https://twitter.com/larasuke
 https://twitter.com/lemon_mito
@@ -533,6 +546,7 @@ https://twitter.com/murabitoufu
 https://twitter.com/myonshiso
 https://twitter.com/myu_aster
 https://twitter.com/nagaren
+https://twitter.com/nagasawatougo
 https://twitter.com/nakonako9110530
 https://twitter.com/nanananaaannaa
 https://twitter.com/nanban319
@@ -645,6 +659,7 @@ https://twitter.com/shirabeshiki
 https://twitter.com/shiragixx
 https://twitter.com/shirakamifubuki
 https://twitter.com/shirorokitsune
+https://twitter.com/shisoneri
 https://twitter.com/sierra_s252
 https://twitter.com/sikitani_asuka
 https://twitter.com/singlecask1102
@@ -746,6 +761,7 @@ https://twitter.com/whitenoise_siro
 https://twitter.com/wokada156
 https://twitter.com/wooperfuri
 https://twitter.com/worldlogxxx
+https://twitter.com/wota_suke
 https://twitter.com/wttn3tpkt
 https://twitter.com/xephyrks
 https://twitter.com/y_nagii
@@ -784,6 +800,7 @@ https://twitter.com/zekkyon
 https://twitter.com/zikataro
 https://twitter.com/zng810
 https://twitter.com/zoru_boi
+https://twitter.com/zuimaaa0609
 https://weibo.com/2662679391/
 https://weibo.com/397674305llc
 https://weibo.com/5763547141
@@ -978,6 +995,7 @@ https://www.pixiv.net/users/1670136
 https://www.pixiv.net/users/16725473
 https://www.pixiv.net/users/16871803
 https://www.pixiv.net/users/17027
+https://www.pixiv.net/users/17062132
 https://www.pixiv.net/users/1724774
 https://www.pixiv.net/users/17317437
 https://www.pixiv.net/users/17334128
@@ -1002,6 +1020,7 @@ https://www.pixiv.net/users/18215432
 https://www.pixiv.net/users/18222180
 https://www.pixiv.net/users/1822576
 https://www.pixiv.net/users/1823115
+https://www.pixiv.net/users/182552
 https://www.pixiv.net/users/18257343
 https://www.pixiv.net/users/18398622
 https://www.pixiv.net/users/18414854
