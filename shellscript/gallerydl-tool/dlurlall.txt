@@ -52,6 +52,7 @@ https://danbooru.donmai.us/posts?tags=ukai_saki
 https://danbooru.donmai.us/posts?tags=wanke
 https://danbooru.donmai.us/posts?tags=wataru_%28nextlevel%29
 https://danbooru.donmai.us/posts?tags=wilsn_koon
+https://danbooru.donmai.us/posts?tags=yaya_hinata
 https://danbooru.donmai.us/posts?tags=yushi_ketsalkoatl
 https://nijie.info/members.php?id=1532455
 https://nijie.info/members.php?id=319563
@@ -870,6 +871,7 @@ https://twitter.com/yanyo_yanyanyo
 https://twitter.com/yaponishi
 https://twitter.com/yasei_chinpan
 https://twitter.com/yashiro_tyoK
+https://twitter.com/yayahinata
 https://twitter.com/ydh2101
 https://twitter.com/yn_shirase
 https://twitter.com/yohan1754
@@ -1335,6 +1337,7 @@ https://www.pixiv.net/users/29029591
 https://www.pixiv.net/users/2905012
 https://www.pixiv.net/users/29108003
 https://www.pixiv.net/users/29198503
+https://www.pixiv.net/users/2925
 https://www.pixiv.net/users/2934221
 https://www.pixiv.net/users/29449
 https://www.pixiv.net/users/29541668
@@ -1739,6 +1742,7 @@ https://www.pixiv.net/users/882935
 https://www.pixiv.net/users/8866698
 https://www.pixiv.net/users/8889588
 https://www.pixiv.net/users/890158
+https://www.pixiv.net/users/8925
 https://www.pixiv.net/users/8952318
 https://www.pixiv.net/users/8967182
 https://www.pixiv.net/users/899722
