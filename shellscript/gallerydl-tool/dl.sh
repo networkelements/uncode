@@ -29,11 +29,10 @@ echo ""
 
 
 s3cmd put --recursive $dl_directory $send_directory                          ; \
- s3cmd ls --recursive $dl_directory > $ls_s3directory_report                 ; \
+ s3cmd ls --recursive $send_directory > $ls_s3directory_report               ; \
  sed -i -e 's/^.*s3.*gallery-dl/gallery-dl/g' $ls_s3directory_report         ; \
  find $HOME/gallery-dl/ -type f | xargs -r ls -l > $ls_localdirectory_report ; \
  count=`ps -ef | grep $process_name | grep -v grep | wc -l`
-
 
 echo ""
 echo "* Uploaded to Objectstorage"
