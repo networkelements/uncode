@@ -2,6 +2,7 @@ https://twitter.com/hunwariumou
 
 https://chan.sankakucomplex.com/?tags=yamamoto_yamato
 https://cucmcom.tumblr.com
+https://danbooru.donmai.us/posts/2693258
 https://danbooru.donmai.us/posts?tags=10eki_%28tenchou%29
 https://danbooru.donmai.us/posts?tags=akasaai
 https://danbooru.donmai.us/posts?tags=alchemaniac
@@ -47,15 +48,20 @@ https://danbooru.donmai.us/posts?tags=ohara_tometa
 https://danbooru.donmai.us/posts?tags=ootsuki_momiji
 https://danbooru.donmai.us/posts?tags=osisio
 https://danbooru.donmai.us/posts?tags=pija_%28pianiishimo%29
+https://danbooru.donmai.us/posts?tags=ran_%28bukeranwu%29
 https://danbooru.donmai.us/posts?tags=realmbw
 https://danbooru.donmai.us/posts?tags=rokuwata_tomoe
 https://danbooru.donmai.us/posts?tags=ru_zhai
 https://danbooru.donmai.us/posts?tags=sakura_koharu
+https://danbooru.donmai.us/posts?tags=saru
+https://danbooru.donmai.us/posts?tags=saru_%28pixiv13751598%29
+https://danbooru.donmai.us/posts?tags=saru_000
 https://danbooru.donmai.us/posts?tags=seia_%28tikxxx%29
 https://danbooru.donmai.us/posts?tags=shi-chen
 https://danbooru.donmai.us/posts?tags=shimada_fumikane
 https://danbooru.donmai.us/posts?tags=shirabi
 https://danbooru.donmai.us/posts?tags=shotan
+https://danbooru.donmai.us/posts?tags=shuaiaba
 https://danbooru.donmai.us/posts?tags=skade
 https://danbooru.donmai.us/posts?tags=spica_%28spica_1510%29
 https://danbooru.donmai.us/posts?tags=sunaba_suzume
@@ -630,6 +636,7 @@ https://twitter.com/azure_0608
 https://twitter.com/azurlane_staff
 https://twitter.com/bababannouyaku
 https://twitter.com/bacius9
+https://twitter.com/bahaodiqiu
 https://twitter.com/balance_sd
 https://twitter.com/bamuth_Z
 https://twitter.com/bansanv3
@@ -660,6 +667,7 @@ https://twitter.com/bonnie_3404
 https://twitter.com/borusitimaru
 https://twitter.com/boyaboyes
 https://twitter.com/broken_monky
+https://twitter.com/bukeranwu
 https://twitter.com/bunbonian
 https://twitter.com/butcha_u
 https://twitter.com/c2tiduru
@@ -1339,6 +1347,7 @@ https://twitter.com/same_same____
 https://twitter.com/samemanma14
 https://twitter.com/sanada_jp
 https://twitter.com/sansei_rain
+https://twitter.com/saru_000
 https://twitter.com/sasa_onigiri105
 https://twitter.com/sato_36
 https://twitter.com/satsuki_Katze
@@ -1662,6 +1671,7 @@ https://weibo.com/p/1005052111397132
 https://weibo.com/p/1005052139671032
 https://weibo.com/p/1005052152152455
 https://weibo.com/p/1005052156631357
+https://weibo.com/p/1005052235541213
 https://weibo.com/p/1005052372757023
 https://weibo.com/p/1005052662679391
 https://weibo.com/p/1005052704693114
@@ -2176,6 +2186,7 @@ https://www.pixiv.net/users/3211072
 https://www.pixiv.net/users/32182422
 https://www.pixiv.net/users/32190376
 https://www.pixiv.net/users/32254275
+https://www.pixiv.net/users/3225680
 https://www.pixiv.net/users/3235102
 https://www.pixiv.net/users/323582
 https://www.pixiv.net/users/32429554
@@ -2430,6 +2441,7 @@ https://www.pixiv.net/users/5554
 https://www.pixiv.net/users/5555737
 https://www.pixiv.net/users/556781
 https://www.pixiv.net/users/55926634
+https://www.pixiv.net/users/5598313
 https://www.pixiv.net/users/56018056
 https://www.pixiv.net/users/5619222
 https://www.pixiv.net/users/56269322
