@@ -914,7 +914,7 @@ https://twitter.com/hu_na_
 https://twitter.com/huhuhu13422
 https://twitter.com/hujiume
 https://twitter.com/humikane
-https://twitter.com/hunwariumou
+#https://twitter.com/hunwariumou
 https://twitter.com/hwanhee_030525
 https://twitter.com/hxD9585
 https://twitter.com/i_j_o_t
@@ -1413,6 +1413,7 @@ https://twitter.com/sanada_jp
 https://twitter.com/sansei_rain
 https://twitter.com/saru_000
 https://twitter.com/sasa_onigiri105
+https://twitter.com/satellite4
 https://twitter.com/sato_36
 https://twitter.com/satsuki_Katze
 https://twitter.com/satsumi624
@@ -1682,9 +1683,10 @@ https://twitter.com/yoiro_
 https://twitter.com/yok_01ex
 https://twitter.com/yolanda315732
 https://twitter.com/yooroong
-https://twitter.com/yopan_z
+#https://twitter.com/yopan_z
 https://twitter.com/yoru_no_IF
 https://twitter.com/yoshi55level
+https://twitter.com/yoshi_makita
 https://twitter.com/yoshikawa_HDAK
 https://twitter.com/yousama2333
 https://twitter.com/youyouyou_1211
@@ -2429,6 +2431,7 @@ https://www.pixiv.net/users/38444677
 https://www.pixiv.net/users/38474
 https://www.pixiv.net/users/38541491
 https://www.pixiv.net/users/3863026
+https://www.pixiv.net/users/3869
 https://www.pixiv.net/users/386925
 https://www.pixiv.net/users/3872398
 https://www.pixiv.net/users/38755649
