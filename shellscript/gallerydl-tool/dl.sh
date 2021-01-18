@@ -2,7 +2,7 @@
 
 url=`cat $HOME/dlurlall.txt`
 history="$HOME/gallery-dl-history.bin"
-dl_directory="$HOME/gallery-dl/"
+dl_directory="/mnt/s3mnt/"
 send_directory01="s3://pic/gallery-dl/"
 send_directory02="s3://confdir/gallery-dl/"
 ls_s3directory_report="$HOME/s3ls.log"
@@ -10,6 +10,8 @@ ls_localdirectory_report="$HOME/local_ls.log"
 disk_area01=/
 area_limit01=90
 process_name=s3cmd
+
+s3fs pic /mnt/s3mnt -o rw,url=https://ewr1.vultrobjects.com
 
 
 while read line
@@ -38,9 +40,6 @@ else
     echo ""
 fi
     
-    
-    
-    
     disk_limit01=`df $disk_area01 | tail -1 | /bin/sed 's/^.* \([0-9]*\)%.*$/\1/'`
     if [ $disk_limit01 -gt $area_limit01 ]; then
         break
@@ -55,8 +54,8 @@ echo "------------------------------------"
 echo ""
 
 
-# s3cmd put --recursive $dl_directory $send_directory01                          ; \
-# s3cmd ls --recursive $send_directory01 > $ls_s3directory_report               ; \
+# s3cmd put --recursive $dl_directory $send_directory01                       ; \
+# s3cmd ls --recursive $send_directory01 > $ls_s3directory_report             ; \
 # sed -i -e 's/^.*s3.*gallery-dl/gallery-dl/g' $ls_s3directory_report         ; \
 # find $HOME/gallery-dl/ -type f | xargs -r ls -l > $ls_localdirectory_report ; \
 # count=`ps -ef | grep $process_name | grep -v grep | wc -l`
