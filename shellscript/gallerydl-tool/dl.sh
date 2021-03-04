@@ -25,7 +25,7 @@ disk_area01=/
 area_limit01=90
 process_name=s3cmd
 
-
+s3fs picfolder /mnt/s3mnt -o rw,url=https://ewr1.vultrobjects.com
 cd /mnt/s3mnt/gallery-dl/
         
 while read line
