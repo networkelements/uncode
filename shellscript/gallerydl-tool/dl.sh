@@ -22,10 +22,10 @@ send_directory02="s3://conffolder/gallery-dl/"
 ls_s3directory_report="$HOME/s3ls.log"
 ls_localdirectory_report="$HOME/local_ls.log"
 disk_area01=/
-area_limit01=90
+area_limit01=95
 process_name=s3cmd
 
-s3fs picfolder /mnt/s3mnt -o rw,url=https://ewr1.vultrobjects.com
+s3fs picfolder /mnt/s3mnt -o rw,url=https://ewr1.vultrobjects.com -o nonempty
 cd /mnt/s3mnt/gallery-dl/
         
 while read line
