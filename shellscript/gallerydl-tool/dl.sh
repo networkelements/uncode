@@ -17,8 +17,8 @@ weibo_directory="$HOME/gallery-dl/weibo/"
 yandere_directory="$HOME/gallery-dl/yandere/"
 
 
-send_directory01="s3://pic/gallery-dl/"
-send_directory02="s3://confdir/gallery-dl/"
+send_directory01="s3://picdir/gallery-dl/"
+send_directory02="s3://conffolder/gallery-dl/"
 ls_s3directory_report="$HOME/s3ls.log"
 ls_localdirectory_report="$HOME/local_ls.log"
 disk_area01=/
@@ -36,16 +36,16 @@ do
     
     if [ $count = 0 ]; then
     echo ""
-    echo "* $process_name is Down"
-    echo "------------------------------------"
+    #echo "* $process_name is Down"
+    #echo "------------------------------------"
     echo ""
     echo "* Delete gallery-dl directory is Start"
-    echo "------------------------------------"
+    #echo "------------------------------------"
     echo ""
-    rm -rf $dl_directory
+    #rm -rf $dl_directory
     echo ""
-    echo "* gallery-dl directory deleted"
-    echo "------------------------------------"
+    #echo "* gallery-dl directory deleted"
+    #echo "------------------------------------"
     echo ""
 else
     echo ""
