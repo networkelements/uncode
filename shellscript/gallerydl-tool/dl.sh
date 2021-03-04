@@ -85,21 +85,21 @@ echo ""
 
 if [ $count = 0 ]; then
     echo ""
-    echo "* $process_name is Down"
-    echo "------------------------------------"
+    #echo "* $process_name is Down"
+    #echo "------------------------------------"
     echo ""
-    echo "* Delete gallery-dl directory is Start"
-    echo "------------------------------------"
+    #echo "* Delete gallery-dl directory is Start"
+    #echo "------------------------------------"
     echo ""
-    rm -rf $dl_directory
+    #rm -rf $dl_directory
     echo ""
-    echo "* gallery-dl directory deleted"
-    echo "------------------------------------"
+    #echo "* gallery-dl directory deleted"
+    #echo "------------------------------------"
     echo ""
 else
     echo ""
-    echo "* Disk space is OK"
-    echo "------------------------------------"
+    #echo "* Disk space is OK"
+    #echo "------------------------------------"
     echo ""
 fi
 
