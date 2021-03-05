@@ -45,7 +45,10 @@ do
     read line10
 if [ -z "$line1" ] ; then break
 fi
-    gallery-dl $line1 --download-archive $history
+    while read line
+    do
+        gallery-dl $line --download-archive $history
+    done < $line1
 done
 
 echo "* Downloaded"
