@@ -32,7 +32,7 @@ cd /vultr_picdir
 
 while read line
 do
-    gallery-dl $line --download-archive $history
+    gallery-dl $line --download-archive $historybin
 done << FILE
 $url
 FILE
