@@ -1,7 +1,7 @@
 #!/bin/sh
 
 url=`cat $HOME/git/github/uncode/shellscript/gallerydl-tool/dlurlall.txt`
-history="$HOME/git/github/uncode/shellscript/gallerydl-tool/gallery-dl-history.bin"
+history="$HOME/gallery-dl-history.bin"
 dl_directory="$HOME/gallery-dl/"
 
 danbooru_directory="$HOME/gallery-dl/danbooru/"
