@@ -1,7 +1,7 @@
 #!/bin/sh
 
 url=`cat $HOME/git/github/uncode/shellscript/gallerydl-tool/dlurlall.txt`
-history="$HOME/gallery-dl-history.bin"
+historybin="$HOME/git/github/uncode/shellscript/gallerydl-tool/gallery-dl-history.bin"
 dl_directory="$HOME/gallery-dl/"
 
 danbooru_directory="$HOME/gallery-dl/danbooru/"
@@ -32,7 +32,7 @@ cd /vultr_picdir
 
 while read line
 do
-    gallery-dl $line --download-archive $history
+    gallery-dl $line --download-archive $historybin
 done < $url
 
 echo "* Downloaded"
@@ -42,6 +42,6 @@ echo "* date"
 echo "------------------------------------"
 date
 
-cp $history $send_directory02
+cp $historybin $send_directory02
 
 exit
