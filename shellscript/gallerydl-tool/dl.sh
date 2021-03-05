@@ -30,26 +30,10 @@ goofys --profile vultr --endpoint https://ewr1.vultrobjects.com conffolder /vult
 
 cd /vultr_picdir
 
-
-cat $url | while true
+while read line
 do
-    read line1
-    read line2
-    read line3
-    read line4
-    read line5
-    read line6
-    read line7
-    read line8
-    read line9
-    read line10
-if [ -z "$line1" ] ; then break
-fi
-    while read line
-    do
-        gallery-dl $line --download-archive $history
-    done < $line1
-done
+    gallery-dl $line --download-archive $history
+done < $url
 
 echo "* Downloaded"
 echo "------------------------------------"
