@@ -27,7 +27,6 @@ write-output "--------"
 write-output "先ほどお渡ししたconfig.jsonを"
 write-output "02.mkenv.batと同じフォルダに格納してください"
 write-output ""
-write-output "c:\users\administrator\desktop\gallery-dl\ がgallery-dlのデフォルトの保存先になっていますが、"
-write-output "変更したい場合はconfig.json内のbase-directory項を修正してください"
+write-output "%userprfile%\gallery-dl\ がgallery-dlのデフォルトの保存先になっています"
 write-output ""
 
