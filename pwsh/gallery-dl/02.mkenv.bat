@@ -17,12 +17,12 @@ pause & exit/b
 # $galery-dl-confurl = https://raw.githubusercontent.com/mikf/gallery-dl/master/docs/gallery-dl.conf
 
 
-$galery-dl-binpath = "$env:userprofile\scoop\apps\gallery-dl\current\"
-$galery-dl-conf    = gallery-dl.conf
-$local-save-dir    = $env:userprofile + "\desktop\gallery-dl\"
-$tooldir           = $local-save-dir + "!01.dltool"
+$galery_dl_binpath = "$env:userprofile\scoop\apps\gallery-dl\current\"
+$galery_dl_conf    = gallery-dl.conf
+$local_save_dir    = $env:userprofile + "\desktop\gallery-dl\"
+$tooldir           = $local_save_dir + "!01.dltool"
 
-mkdir $local-save-dir
+mkdir $local_save_dir
 mkdir $tooldir
 
 
@@ -32,9 +32,9 @@ write-output "config.json内を置換します"
 
 get-content $galery-dl-conf                               |
  % { $_ -replace "base-directory`"`: `".*",               `
-                 "base-directory`"`: `"$local-save-dir" }
+                 "base-directory`"`: `"$local_save_dir" }
 
-cp .\$galery-dl-conf galery-dl-binpath
+cp .\$galery_dl_conf $galery_dl_binpath
 
 
 ls $tooldir
