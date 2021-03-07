@@ -31,7 +31,7 @@ write-output "config.json内を置換します"
 
 
 get-content $galery-dl-conf                               |
- % { $_ -replace "./gallery-dl/","$local_save_dir" }
+ % { $_ -replace "\.\/gallery-dl\/","$local_save_dir" }
 
 cp .\$galery_dl_conf $galery_dl_binpath
 
