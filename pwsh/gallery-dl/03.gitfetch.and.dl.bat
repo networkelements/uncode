@@ -8,12 +8,12 @@ pause & exit/b
 : #>
 
 $local_save_dir    = $env:userprofile + "\desktop\gallery-dl\"
-$tooldir           = $local_save_dir + "!01.dltool"
+$tooldir           = $local_save_dir + "!01.dltool\uncode"
 
 ls $tooldir
 cd $tooldir ; git fetch upstream ; git checkout master ; git merge upstream/master ; cd $env:userprofile
 
-$dllist          = $tooldir  + "\uncode\shellscript\gallerydl-tool\dlurlall.txt"
+$dllist          = $tooldir  + "\shellscript\gallerydl-tool\dlurlall.txt"
 
 $dluserlist = (get-content $dllist) -as [string[]]
 $i=1
