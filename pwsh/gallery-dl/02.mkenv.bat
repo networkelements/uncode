@@ -18,7 +18,7 @@ pause & exit/b
 
 
 $galery_dl_binpath = "$env:userprofile\scoop\apps\gallery-dl\current\"
-$galery_dl_conf    = gallery-dl.conf
+$galery_dl_conf    = "config.json"
 $local_save_dir    = $env:userprofile + "\desktop\gallery-dl\"
 $tooldir           = $local_save_dir + "!01.dltool"
 
