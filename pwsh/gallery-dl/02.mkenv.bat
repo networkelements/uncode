@@ -7,11 +7,11 @@ endlocal & Powershell -NoProfile -ExecutionPolicy RemoteSigned -Command "$input|
 pause & exit/b
 : #>
 
-# winã§ã¯scoopã‹ã‚‰ã ã¨gallery-dl.exeã®ã‚ã‚‹
-# ãƒ•ã‚©ãƒ«ãƒ€("$env:userprofile\scoop\apps\gallery-dl\current")ã«
-#ã€Œgallery-dl.confã€(https://raw.githubusercontent.com/mikf/gallery-dl/master/docs/gallery-dl.confã‚’ãƒ™ãƒ¼ã‚¹ã«ä¿®æ­£)
-# ã‚’ç½®ã„ã¦pixivãªã©ã®ã‚¢ã‚«ã‚¦ãƒ³ãƒˆè¨­å®šã‚’
-# å…¥ã‚Œã‚‹å¿…è¦ã‚ã‚Š(ãƒ‘ã‚¹ãƒ¯ãƒ¼ãƒ‰ãªã©ã«ç‰¹æ®Šè¨˜å·ãŒå…¥ã£ã¦ã„ã‚‹ã¨parseã§ããªã„ã®ã§æ³¨æ„)
+# win‚Å‚Íscoop‚©‚ç‚¾‚Ægallery-dl.exe‚Ì‚ ‚é
+# ƒtƒHƒ‹ƒ_("$env:userprofile\scoop\apps\gallery-dl\current")‚É
+#ugallery-dl.confv(https://raw.githubusercontent.com/mikf/gallery-dl/master/docs/gallery-dl.conf‚ğƒx[ƒX‚ÉC³)
+# ‚ğ’u‚¢‚Äpixiv‚È‚Ç‚ÌƒAƒJƒEƒ“ƒgİ’è‚ğ
+# “ü‚ê‚é•K—v‚ ‚è(ƒpƒXƒ[ƒh‚È‚Ç‚É“Áê‹L†‚ª“ü‚Á‚Ä‚¢‚é‚Æparse‚Å‚«‚È‚¢‚Ì‚Å’ˆÓ)
 
 
 # $galery-dl-confurl = https://raw.githubusercontent.com/mikf/gallery-dl/master/docs/gallery-dl.conf
@@ -26,7 +26,7 @@ mkdir $local_save_dir
 mkdir $tooldir
 
 
-read-host    "01.install.gallery-dl.batã§config.jsonã‚’æ ¼ç´(ä¸Šæ›¸ã)ã—ãŸã‚‰ã€Enterã‚’æŠ¼ä¸‹ã—ã¦ãã ã•ã„"
+read-host    "01.install.gallery-dl.bat‚Åconfig.json‚ğŠi”[(ã‘‚«)‚µ‚½‚çAEnter‚ğ‰Ÿ‰º‚µ‚Ä‚­‚¾‚³‚¢"
 
 
 cp .\$galery_dl_conf $galery_dl_binpath
