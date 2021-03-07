@@ -1,7 +1,7 @@
 {
     "extractor":
     {
-        "base-directory": "./gallery-dl/",
+        "base-directory": "c:\users\administrator\desktop\gallery-dl\",
         "parent-directory": false,
         "postprocessors": null,
         "archive": null,
