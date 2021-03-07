@@ -13,7 +13,7 @@ $tooldir           = $local_save_dir + "!01.dltool"
 ls $tooldir
 cd $tooldir ; git fetch upstream ; git checkout master ; git merge upstream/master ; cd $env:userprofile
 
-$dllist          = $tooldir  + "\uncode\shellscript\gallerydl-tool\dlurl.txt"
+$dllist          = $tooldir  + "\uncode\shellscript\gallerydl-tool\dlurlall.txt"
 
 $dluserlist = (get-content $dllist) -as [string[]]
 $i=1
