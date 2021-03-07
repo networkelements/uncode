@@ -26,12 +26,8 @@ mkdir $local_save_dir
 mkdir $tooldir
 
 
-read-host    "config.jsonを格納したら、Enterを押下してください"
-write-output "config.json内を置換します"
+read-host    "01.install.gallery-dl.batでconfig.jsonを格納(上書き)したら、Enterを押下してください"
 
-
-get-content $galery-dl-conf                               |
- % { $_ -replace "\.\/gallery-dl\/","$local_save_dir" }
 
 cp .\$galery_dl_conf $galery_dl_binpath
 
