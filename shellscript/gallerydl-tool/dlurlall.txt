@@ -53,7 +53,6 @@ https://twitter.com/yopan_z
 #https://hitomi.la/group/purple%20software-all.html
 #https://hitomi.la/group/yuzu%20soft-all.html
 
-
 http://duckku.lofter.com
 http://huanxiangheitu.lofter.com
 http://naijiaer.lofter.com
@@ -210,6 +209,7 @@ https://danbooru.donmai.us/posts?tags=yaya_hinata
 https://danbooru.donmai.us/posts?tags=yitiao_er-hua
 https://danbooru.donmai.us/posts?tags=yukiguni_yuu
 https://danbooru.donmai.us/posts?tags=yushi_ketsalkoatl
+https://danbooru.donmai.us/posts?tags=z.taiga
 https://dangerdrop.tumblr.com
 https://e-hentai.org/g/1027192/914c6a1692/
 https://e-hentai.org/g/539694/cde36a7d39/
@@ -226,7 +226,6 @@ https://hitomi.la/artist/saipaco.-all.html
 https://hitomi.la/group/saga%20planets-all.html
 https://huanxiangheitu.lofter.com
 https://huyumitsu.tumblr.com
-https://instagram.com/taiga10
 https://kageshio.tumblr.com
 https://kamameshigogomaru.tumblr.com
 https://kaya-7.tumblr.com
@@ -2979,14 +2978,13 @@ https://www.deviantart.com/lowlightk
 https://www.deviantart.com/noccu
 https://www.deviantart.com/sr1023
 https://www.deviantart.com/the-lm7
-https://www.instagram.com/__lm7__/
+https://www.instagram.com/__lm7__
 https://www.instagram.com/arknights_messenger_official
-https://www.instagram.com/ema_qvq/
+https://www.instagram.com/ema_qvq
 https://www.instagram.com/kyo_zip
-https://www.instagram.com/kyo_zip/
-https://www.instagram.com/ozadomi/
-https://www.instagram.com/sirius_enjoliao/
-https://www.instagram.com/wan_ke_/
+https://www.instagram.com/ozadomi
+https://www.instagram.com/sirius_enjoliao
+https://www.instagram.com/wan_ke_
 https://www.pixiv.net/artworks/25063896
 https://www.pixiv.net/artworks/34510438
 https://www.pixiv.net/artworks/42444216
@@ -3145,7 +3143,7 @@ https://www.pixiv.net/users/10564376
 https://www.pixiv.net/users/1056999
 https://www.pixiv.net/users/1064669
 https://www.pixiv.net/users/1066701
-https://www.pixiv.net/users/10669991/artworks?p=4
+https://www.pixiv.net/users/10669991
 https://www.pixiv.net/users/10678011
 https://www.pixiv.net/users/10706782
 https://www.pixiv.net/users/10720265
@@ -4324,6 +4322,7 @@ https://www.pixiv.net/users/44922986
 https://www.pixiv.net/users/44932618
 https://www.pixiv.net/users/4493551
 https://www.pixiv.net/users/4495937
+https://www.pixiv.net/users/45043169
 https://www.pixiv.net/users/4517875
 https://www.pixiv.net/users/4524557
 https://www.pixiv.net/users/45249715
