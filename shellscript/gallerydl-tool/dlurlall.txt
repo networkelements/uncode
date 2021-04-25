@@ -252,6 +252,7 @@ https://danbooru.donmai.us/posts?tags=spica_%28spica_1510%29
 https://danbooru.donmai.us/posts?tags=suna
 https://danbooru.donmai.us/posts?tags=sunaba_suzume
 https://danbooru.donmai.us/posts?tags=suujiniku
+https://danbooru.donmai.us/posts?tags=t.k.o
 https://danbooru.donmai.us/posts?tags=taesi
 https://danbooru.donmai.us/posts?tags=take_%28trude1945oneetyan%29
 https://danbooru.donmai.us/posts?tags=takeda_hiromitsu
@@ -992,6 +993,7 @@ https://twitter.com/TELRU_
 https://twitter.com/TEL_mmm
 https://twitter.com/THUNDERproject
 https://twitter.com/TIo_005
+https://twitter.com/TKO_4200
 https://twitter.com/TNK0150
 https://twitter.com/TTake_A_Look
 https://twitter.com/T_DiS_62
@@ -3094,7 +3096,6 @@ https://weibo.com/aZLing4
 https://weibo.com/danlanlanzi
 https://weibo.com/hoshieve
 https://weibo.com/kieta7777
-https://weibo.com/onlykexue
 https://weibo.com/p/1005051141030532
 https://weibo.com/p/1005051800333020
 https://weibo.com/p/1005051883543300
@@ -3134,6 +3135,7 @@ https://weibo.com/swordartonly
 https://weibo.com/u/1542601283
 https://weibo.com/u/1990983307
 https://weibo.com/u/2430909877
+https://weibo.com/u/5099758617
 https://weibo.com/u/5249045642
 https://weibo.com/u/5858007222
 https://weibo.com/u/5987807006
@@ -4994,6 +4996,7 @@ https://www.pixiv.net/users/879232
 https://www.pixiv.net/users/8808082
 https://www.pixiv.net/users/8810662
 https://www.pixiv.net/users/881230
+https://www.pixiv.net/users/881608
 https://www.pixiv.net/users/882569
 https://www.pixiv.net/users/882935
 https://www.pixiv.net/users/8843541
