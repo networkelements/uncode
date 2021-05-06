@@ -147,6 +147,7 @@ https://danbooru.donmai.us/posts?tags=ka_keo
 https://danbooru.donmai.us/posts?tags=kaede_%28yumesaki_kaede%29
 https://danbooru.donmai.us/posts?tags=kageshio_%28276006%29
 https://danbooru.donmai.us/posts?tags=kagura_tohru
+https://danbooru.donmai.us/posts?tags=kajuu
 https://danbooru.donmai.us/posts?tags=kanaria_hisagi
 https://danbooru.donmai.us/posts?tags=kannatsuki_noboru
 https://danbooru.donmai.us/posts?tags=kanzaki_muyu
@@ -216,6 +217,7 @@ https://danbooru.donmai.us/posts?tags=shi-chen
 https://danbooru.donmai.us/posts?tags=shimada_fumikane
 https://danbooru.donmai.us/posts?tags=shirabi
 https://danbooru.donmai.us/posts?tags=shotan
+https://danbooru.donmai.us/posts?tags=shoujo_l
 https://danbooru.donmai.us/posts?tags=shuaiaba
 https://danbooru.donmai.us/posts?tags=shunsei_%28muratou%29
 https://danbooru.donmai.us/posts?tags=skade
@@ -325,6 +327,8 @@ https://nhentai.net/search/?q=40010+language%3Ajapanese
 https://nhentai.net/search/?q=774+language%3Ajapanese
 https://nhentai.net/search/?q=Ajisaidenden+language%3Ajapanese
 https://nhentai.net/search/?q=Butcha-U+language%3Ajapanese
+https://nhentai.net/search/?q=Comic+Kairakuten+language%3Ajapanese
+https://nhentai.net/search/?q=Comic+Shitsurakuten+language%3Ajapanese
 https://nhentai.net/search/?q=Fue+Ronpaia+language%3Ajapanese
 https://nhentai.net/search/?q=Itaba+Hiroshi+language%3Ajapanese
 https://nhentai.net/search/?q=Kakuzatou+%E8%A7%92%E7%A0%82%E7%B3%96++language%3Ajapanese
@@ -346,9 +350,11 @@ https://nhentai.net/search/?q=nakamine+hiroshi+language%3Ajapanese
 https://nhentai.net/search/?q=ponkotsu+works+language%3Ajapanese
 https://nhentai.net/search/?q=saeki+hokuto+language%3Ajapanese
 https://nhentai.net/search/?q=satou+kuuki+language%3Ajapanese
+https://nhentai.net/search/?q=shinonomeryu+language%3Ajapanese
 https://nhentai.net/search/?q=sumeragi+kohaku+language%3Ajapanese
 https://nhentai.net/search/?q=supe+nakani+language%3Ajapanese
 https://nhentai.net/search/?q=tomose+shunsaku+language%3Ajapanese
+https://nhentai.net/search/?q=towako+language%3Ajapanese
 https://nhentai.net/search/?q=yaya+hinata+language%3Ajapanese
 https://ni-zma.tumblr.com
 https://nijie.info/members.php?id=1047088
@@ -371,6 +377,7 @@ https://noccu.tumblr.com
 https://nooooooooooe.tumblr.com
 https://norizci.lofter.com
 https://nossss.lofter.com
+https://osiria17.lofter.com
 https://osiria17.lofter.com/
 https://pixiv.net/users/14466
 https://pixiv.net/users/164728
@@ -526,6 +533,7 @@ https://twitter.com/AlisonToyama
 https://twitter.com/Alv0w0
 https://twitter.com/Alvear_98
 https://twitter.com/Amamizu_Shizuku
+https://twitter.com/AmazingCushions
 https://twitter.com/An_yasuri
 https://twitter.com/Ando_Yuna_
 https://twitter.com/AngstromDayo
@@ -633,6 +641,7 @@ https://twitter.com/Dishwasher1910
 https://twitter.com/DoKoMoN2
 https://twitter.com/DogAgent3
 https://twitter.com/DrNS4626
+https://twitter.com/DrawJuice3
 https://twitter.com/Drawing_Aron
 https://twitter.com/Drift_in_
 https://twitter.com/Drmaho1
@@ -683,6 +692,7 @@ https://twitter.com/GTO_Mason2
 https://twitter.com/GUMI710
 https://twitter.com/G_tenrai
 https://twitter.com/Gap_picture
+https://twitter.com/Garthis_afo
 https://twitter.com/Genmu_0635
 https://twitter.com/Ginseng___
 https://twitter.com/GirlsFrontline
@@ -941,6 +951,7 @@ https://twitter.com/Obsidian_
 https://twitter.com/OchazukeAKI3
 https://twitter.com/OekakiTapioka
 https://twitter.com/OhSrY9riIftzjmY
+https://twitter.com/Okitasan_1209
 https://twitter.com/Onakasuita__xx
 https://twitter.com/OniKanzei
 https://twitter.com/Onyxrose707
@@ -975,6 +986,7 @@ https://twitter.com/Prime_tw
 https://twitter.com/Pu_ksks_
 https://twitter.com/Putama_Lv2
 https://twitter.com/Putama_P
+https://twitter.com/Pyararara1
 https://twitter.com/Qooo003
 https://twitter.com/QzbWj
 https://twitter.com/R18nooodles
@@ -1298,6 +1310,7 @@ https://twitter.com/amanatsu_mikan7
 https://twitter.com/amanekashiko
 https://twitter.com/amatuyu08
 https://twitter.com/amdkhtk
+https://twitter.com/amejaga
 https://twitter.com/ammoradio1337
 https://twitter.com/amn_amn_
 https://twitter.com/amritasama2
@@ -1862,6 +1875,7 @@ https://twitter.com/inutose
 https://twitter.com/inuzumi_masaki
 https://twitter.com/io_kisaki
 https://twitter.com/io_oekaki2
+https://twitter.com/ioriwu8
 https://twitter.com/ipuusan
 https://twitter.com/iren_lovel
 https://twitter.com/iroha_aqr9
@@ -2108,6 +2122,7 @@ https://twitter.com/lalalalack
 https://twitter.com/lambda9696
 https://twitter.com/larasuke
 https://twitter.com/lcr828
+https://twitter.com/lemilyia
 https://twitter.com/lemon_mito
 https://twitter.com/lenuzip/media
 https://twitter.com/lexis_yayoi
@@ -2200,6 +2215,7 @@ https://twitter.com/mentaiko_kaicho
 https://twitter.com/merc_na_o
 https://twitter.com/merryyy87
 https://twitter.com/mery__S2_
+https://twitter.com/mesgakiwakarase
 https://twitter.com/meth2480
 https://twitter.com/mgk6455
 https://twitter.com/mh5jta
@@ -2505,6 +2521,7 @@ https://twitter.com/osiaarah
 https://twitter.com/osmnkenmin
 https://twitter.com/ossost0711
 https://twitter.com/osterei_w
+https://twitter.com/osushi_kome
 https://twitter.com/osyage921
 https://twitter.com/otokuyou126a
 https://twitter.com/otz_scar
@@ -2675,6 +2692,7 @@ https://twitter.com/s92700654
 https://twitter.com/s_alterchan
 https://twitter.com/s_lovit
 https://twitter.com/s_taketora
+https://twitter.com/s_yachil
 https://twitter.com/sa1be
 https://twitter.com/sa_ya_1107
 https://twitter.com/sabaaa_m
@@ -2714,6 +2732,7 @@ https://twitter.com/same_same___
 https://twitter.com/same_same____
 https://twitter.com/samemanma14
 https://twitter.com/sana_ginagi
+https://twitter.com/sana_ginagi?s=11
 https://twitter.com/sanada_jp
 https://twitter.com/sanbabasanba
 https://twitter.com/sandworks
@@ -2722,6 +2741,7 @@ https://twitter.com/sanmaruno_RYO
 https://twitter.com/sanpatisiki
 https://twitter.com/sansei_rain
 https://twitter.com/sansenokumo
+https://twitter.com/santyako1
 https://twitter.com/sanzui1022
 https://twitter.com/saotome1027
 https://twitter.com/saru_000
@@ -2761,6 +2781,7 @@ https://twitter.com/seseri0718
 https://twitter.com/sessyu
 https://twitter.com/setakman
 https://twitter.com/sez0k
+https://twitter.com/sg080915
 https://twitter.com/sg_uk_yako
 https://twitter.com/sgnfleen
 https://twitter.com/shaffooooo
@@ -2955,6 +2976,7 @@ https://twitter.com/telsonknife
 https://twitter.com/teltelhousi
 https://twitter.com/ten231523
 https://twitter.com/tenchou_10eki
+https://twitter.com/tenlock
 https://twitter.com/tenoo12
 https://twitter.com/tenpbl
 https://twitter.com/tentei87
@@ -3014,6 +3036,7 @@ https://twitter.com/tomiokasena
 https://twitter.com/tomita1988
 https://twitter.com/tomonotori
 https://twitter.com/tomorrow_0
+https://twitter.com/tomosuge
 https://twitter.com/tomozu100
 https://twitter.com/tonari008
 https://twitter.com/tonarifree
@@ -3069,6 +3092,7 @@ https://twitter.com/umeboshi10191
 https://twitter.com/umeki_333
 https://twitter.com/umiroku_
 https://twitter.com/umiu
+https://twitter.com/una_dondon
 https://twitter.com/unagimay
 https://twitter.com/uneruune
 https://twitter.com/unibami
@@ -3106,6 +3130,7 @@ https://twitter.com/vodmta
 https://twitter.com/vpkmit
 https://twitter.com/vrchmany999
 https://twitter.com/vup4cl4
+https://twitter.com/vvnJk4TtvlzKj3O
 https://twitter.com/w_kaname
 https://twitter.com/w_takahiro
 https://twitter.com/wagasi012
@@ -3403,10 +3428,12 @@ https://www.pixiv.net/users/10415882
 https://www.pixiv.net/users/104409
 https://www.pixiv.net/users/1046572
 https://www.pixiv.net/users/10495320
+https://www.pixiv.net/users/10520
 https://www.pixiv.net/users/10537869
 https://www.pixiv.net/users/10538
 https://www.pixiv.net/users/10564376
 https://www.pixiv.net/users/1056999
+https://www.pixiv.net/users/1060786
 https://www.pixiv.net/users/1064669
 https://www.pixiv.net/users/1066701
 https://www.pixiv.net/users/10669991
@@ -3581,6 +3608,7 @@ https://www.pixiv.net/users/13626085
 https://www.pixiv.net/users/13647331
 https://www.pixiv.net/users/13651304
 https://www.pixiv.net/users/13654
+https://www.pixiv.net/users/13665116
 https://www.pixiv.net/users/1368620
 https://www.pixiv.net/users/13695413
 https://www.pixiv.net/users/136956
@@ -3664,6 +3692,7 @@ https://www.pixiv.net/users/14719871
 https://www.pixiv.net/users/1475165
 https://www.pixiv.net/users/14756572
 https://www.pixiv.net/users/14766577
+https://www.pixiv.net/users/14782347
 https://www.pixiv.net/users/14785226
 https://www.pixiv.net/users/14795980
 https://www.pixiv.net/users/1480584
@@ -3676,6 +3705,7 @@ https://www.pixiv.net/users/14918866
 https://www.pixiv.net/users/14929299
 https://www.pixiv.net/users/14945620
 https://www.pixiv.net/users/14968464
+https://www.pixiv.net/users/149719
 https://www.pixiv.net/users/14973935
 https://www.pixiv.net/users/14993224
 https://www.pixiv.net/users/150378
@@ -3906,6 +3936,7 @@ https://www.pixiv.net/users/19196986
 https://www.pixiv.net/users/19208438
 https://www.pixiv.net/users/19214221
 https://www.pixiv.net/users/1921887
+https://www.pixiv.net/users/192293
 https://www.pixiv.net/users/19236367
 https://www.pixiv.net/users/19267575
 https://www.pixiv.net/users/19299261
@@ -3973,6 +4004,7 @@ https://www.pixiv.net/users/20546
 https://www.pixiv.net/users/20569497
 https://www.pixiv.net/users/20579519
 https://www.pixiv.net/users/20593668
+https://www.pixiv.net/users/20618864
 https://www.pixiv.net/users/20636267
 https://www.pixiv.net/users/20645276
 https://www.pixiv.net/users/20663062
@@ -4006,6 +4038,7 @@ https://www.pixiv.net/users/211254
 https://www.pixiv.net/users/2117317
 https://www.pixiv.net/users/2118155
 https://www.pixiv.net/users/21199260
+https://www.pixiv.net/users/21207963
 https://www.pixiv.net/users/21218143
 https://www.pixiv.net/users/21235108
 https://www.pixiv.net/users/21262119
@@ -4071,6 +4104,7 @@ https://www.pixiv.net/users/2278911
 https://www.pixiv.net/users/22794214
 https://www.pixiv.net/users/22797484
 https://www.pixiv.net/users/22811970
+https://www.pixiv.net/users/22817970
 https://www.pixiv.net/users/228427
 https://www.pixiv.net/users/22853292
 https://www.pixiv.net/users/22871125
@@ -4423,6 +4457,7 @@ https://www.pixiv.net/users/32647638
 https://www.pixiv.net/users/3266931
 https://www.pixiv.net/users/32701489
 https://www.pixiv.net/users/3277555
+https://www.pixiv.net/users/32778021
 https://www.pixiv.net/users/32812997
 https://www.pixiv.net/users/328141
 https://www.pixiv.net/users/32815636
@@ -4459,6 +4494,7 @@ https://www.pixiv.net/users/33902055
 https://www.pixiv.net/users/33955881
 https://www.pixiv.net/users/33957315
 https://www.pixiv.net/users/33997435
+https://www.pixiv.net/users/34064307
 https://www.pixiv.net/users/3406960
 https://www.pixiv.net/users/340736
 https://www.pixiv.net/users/34089617
@@ -4515,6 +4551,7 @@ https://www.pixiv.net/users/35381216
 https://www.pixiv.net/users/35406586
 https://www.pixiv.net/users/3542048
 https://www.pixiv.net/users/35439812
+https://www.pixiv.net/users/35448924
 https://www.pixiv.net/users/35500061
 https://www.pixiv.net/users/35502886
 https://www.pixiv.net/users/35513527
@@ -4773,6 +4810,7 @@ https://www.pixiv.net/users/44638386
 https://www.pixiv.net/users/44690121
 https://www.pixiv.net/users/44744600
 https://www.pixiv.net/users/44751159
+https://www.pixiv.net/users/44767059
 https://www.pixiv.net/users/44777522
 https://www.pixiv.net/users/44811365
 https://www.pixiv.net/users/4489077
@@ -4879,6 +4917,7 @@ https://www.pixiv.net/users/4973
 https://www.pixiv.net/users/49842952
 https://www.pixiv.net/users/4989522
 https://www.pixiv.net/users/4994
+https://www.pixiv.net/users/49940940
 https://www.pixiv.net/users/4994566
 https://www.pixiv.net/users/49947119
 https://www.pixiv.net/users/4999266
@@ -5031,6 +5070,7 @@ https://www.pixiv.net/users/57085
 https://www.pixiv.net/users/5711290
 https://www.pixiv.net/users/57117936
 https://www.pixiv.net/users/57135408
+https://www.pixiv.net/users/57221069
 https://www.pixiv.net/users/57265296
 https://www.pixiv.net/users/57317120
 https://www.pixiv.net/users/5735790
@@ -5186,6 +5226,7 @@ https://www.pixiv.net/users/667143
 https://www.pixiv.net/users/6686028
 https://www.pixiv.net/users/66867782
 https://www.pixiv.net/users/6720046
+https://www.pixiv.net/users/67381632
 https://www.pixiv.net/users/6744573
 https://www.pixiv.net/users/6754627
 https://www.pixiv.net/users/675984
@@ -5266,6 +5307,7 @@ https://www.pixiv.net/users/777703
 https://www.pixiv.net/users/7793320
 https://www.pixiv.net/users/7817503
 https://www.pixiv.net/users/7822714
+https://www.pixiv.net/users/783402
 https://www.pixiv.net/users/7843004
 https://www.pixiv.net/users/7847900
 https://www.pixiv.net/users/7857643
@@ -5412,6 +5454,7 @@ https://www.pixiv.net/users/967318
 https://www.pixiv.net/users/9678264
 https://www.pixiv.net/users/970047
 https://www.pixiv.net/users/970557
+https://www.pixiv.net/users/972314
 https://www.pixiv.net/users/9723373
 https://www.pixiv.net/users/9729081
 https://www.pixiv.net/users/973926
