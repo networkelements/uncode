@@ -127,6 +127,7 @@ https://danbooru.donmai.us/posts?tags=endou_okito
 https://danbooru.donmai.us/posts?tags=eojjeodagaileohgedwaessji
 https://danbooru.donmai.us/posts?tags=eorx
 https://danbooru.donmai.us/posts?tags=fei_%28songyijie%29
+https://danbooru.donmai.us/posts?tags=fino
 https://danbooru.donmai.us/posts?tags=fujii_shingo
 https://danbooru.donmai.us/posts?tags=gebijiade_89
 https://danbooru.donmai.us/posts?tags=ginhaha
@@ -402,6 +403,7 @@ https://norizci.lofter.com
 https://nossss.lofter.com
 https://osiria17.lofter.com
 https://osiria17.lofter.com/
+https://pawoo.net/@fino
 https://pixiv.net/users/14466
 https://pixiv.net/users/164728
 https://pixiv.net/users/25459327
@@ -734,6 +736,7 @@ https://twitter.com/Genmu_0635
 https://twitter.com/Ginseng___
 https://twitter.com/GirlsFrontline
 https://twitter.com/GirlsFrontlineE
+https://twitter.com/Gosh_Gosh_Gosh
 https://twitter.com/Goth_lunacle
 https://twitter.com/Gotie23
 https://twitter.com/Gotoms
@@ -1698,6 +1701,7 @@ https://twitter.com/ff_frbb122
 https://twitter.com/fffafa_snow_is
 https://twitter.com/fifteen_199
 https://twitter.com/fiiiiiiisuke
+https://twitter.com/fino__
 https://twitter.com/fixro2n
 https://twitter.com/flamberge_lo
 https://twitter.com/flame_sakana
@@ -1958,6 +1962,7 @@ https://twitter.com/iroha_aqr9
 https://twitter.com/irohatomo1
 https://twitter.com/irohatomowork
 https://twitter.com/iroiro3843
+https://twitter.com/irone0_0
 https://twitter.com/isaac_yeh
 https://twitter.com/isida16g
 https://twitter.com/isida32g
@@ -3962,6 +3967,7 @@ https://www.pixiv.net/users/1634286
 https://www.pixiv.net/users/163536
 https://www.pixiv.net/users/16358409
 https://www.pixiv.net/users/16371714
+https://www.pixiv.net/users/16454673
 https://www.pixiv.net/users/16462721
 https://www.pixiv.net/users/16468423
 https://www.pixiv.net/users/16503213
@@ -4109,6 +4115,7 @@ https://www.pixiv.net/users/18960704
 https://www.pixiv.net/users/19063155
 https://www.pixiv.net/users/190680
 https://www.pixiv.net/users/1908283
+https://www.pixiv.net/users/19095613
 https://www.pixiv.net/users/1909823
 https://www.pixiv.net/users/191346
 https://www.pixiv.net/users/19146835
@@ -4673,6 +4680,7 @@ https://www.pixiv.net/users/32812997
 https://www.pixiv.net/users/328141
 https://www.pixiv.net/users/32815636
 https://www.pixiv.net/users/3284668
+https://www.pixiv.net/users/3285396
 https://www.pixiv.net/users/32911830
 https://www.pixiv.net/users/3297691
 https://www.pixiv.net/users/3297734
@@ -5593,6 +5601,7 @@ https://www.pixiv.net/users/80890
 https://www.pixiv.net/users/809099
 https://www.pixiv.net/users/8127355
 https://www.pixiv.net/users/8129277
+https://www.pixiv.net/users/81370
 https://www.pixiv.net/users/8142
 https://www.pixiv.net/users/8159347
 https://www.pixiv.net/users/816188
