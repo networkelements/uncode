@@ -212,6 +212,7 @@ https://danbooru.donmai.us/posts?tags=muririn
 https://danbooru.donmai.us/posts?tags=mushoku_tensei
 https://danbooru.donmai.us/posts?tags=nagishiro_mito
 https://danbooru.donmai.us/posts?tags=nemu_%28nora%29
+https://danbooru.donmai.us/posts?tags=nibiiro_shizuka
 https://danbooru.donmai.us/posts?tags=noccu
 https://danbooru.donmai.us/posts?tags=norizc
 https://danbooru.donmai.us/posts?tags=nurim
@@ -520,6 +521,7 @@ https://seiga.nicovideo.jp/user/illust/11644291?target=illust_all
 https://seiga.nicovideo.jp/user/illust/12128756?target=illust_all
 https://seiga.nicovideo.jp/user/illust/13390174?target=illust_all
 https://seiga.nicovideo.jp/user/illust/14119268?target=illust_all
+https://seiga.nicovideo.jp/user/illust/1512295?target=illust_all
 https://seiga.nicovideo.jp/user/illust/15350787?target=illust_all
 https://seiga.nicovideo.jp/user/illust/1602929?target=illust_all
 https://seiga.nicovideo.jp/user/illust/19042529?target=illust_all
@@ -581,6 +583,7 @@ https://skeb.jp/@tuetue13
 https://skeb.jp/@u_yukiguni
 https://skeb.jp/@wadayon_chi
 https://skeb.jp/@wolf_416
+https://skeb.jp/@yukai_nao
 https://skeb.jp/@zo3mie
 https://skeb.jp/@zono_05/
 https://soso.fanbox.cc/
@@ -1087,6 +1090,7 @@ https://twitter.com/Meowstic__
 https://twitter.com/Merufena
 https://twitter.com/Midu_5
 https://twitter.com/MikaPikaZo
+https://twitter.com/MikageTakashi
 https://twitter.com/MilkYuzi327
 https://twitter.com/MilkshakeWork
 https://twitter.com/Minau_
@@ -3931,6 +3935,7 @@ https://www.pixiv.net/users/10936001
 https://www.pixiv.net/users/10982895
 https://www.pixiv.net/users/1101145
 https://www.pixiv.net/users/11045087
+https://www.pixiv.net/users/11057287
 https://www.pixiv.net/users/1106298
 https://www.pixiv.net/users/1106732
 https://www.pixiv.net/users/11071460
@@ -3986,6 +3991,7 @@ https://www.pixiv.net/users/1202914
 https://www.pixiv.net/users/12038875
 https://www.pixiv.net/users/12047079
 https://www.pixiv.net/users/12063067
+https://www.pixiv.net/users/12064824
 https://www.pixiv.net/users/12065634
 https://www.pixiv.net/users/12091785
 https://www.pixiv.net/users/12103134
@@ -4023,6 +4029,7 @@ https://www.pixiv.net/users/12435233
 https://www.pixiv.net/users/12457925
 https://www.pixiv.net/users/12478738
 https://www.pixiv.net/users/12491073
+https://www.pixiv.net/users/1250474
 https://www.pixiv.net/users/12519662
 https://www.pixiv.net/users/12539859
 https://www.pixiv.net/users/12556379
@@ -4328,6 +4335,7 @@ https://www.pixiv.net/users/1689653
 https://www.pixiv.net/users/16916292
 https://www.pixiv.net/users/16958947
 https://www.pixiv.net/users/1698817
+https://www.pixiv.net/users/1699416
 https://www.pixiv.net/users/17027
 https://www.pixiv.net/users/17027221
 https://www.pixiv.net/users/17029152
@@ -6267,6 +6275,7 @@ https://yande.re/post?tags=shi_chen
 https://yande.re/post?tags=sora_yoshitake_yuda
 https://yande.re/post?tags=xretakex
 https://yujiyuji.tumblr.com
+https://yukainao.tumblr.com/
 https://yukiguni16.fanbox.cc/
 https://yuzuyu7cat.fanbox.cc/
 https://yuzuyu7cat.tumblr.com
