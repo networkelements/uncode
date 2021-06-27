@@ -31,17 +31,19 @@ mkdir -p /var/log/gallery-dl
 
 cd /mnt/data_drive/picdir
 
+
+# # https://genzouw.com/entry/2020/01/06/120027/1845/
+exec 1> >(
+  while read -r l; do echo "[$(date +"%Y-%m-%d %H:%M:%S")] $l"; done \
+    | tee -a $log_stdout
+)
+exec 2>>$log_stderr
+# 1> $log_stdout 2> $log_stderr
+
 while read line
 do
-    # # https://genzouw.com/entry/2020/01/06/120027/1845/
-    # exec 1> >(
-    #   while read -r l; do echo "[$(date +"%Y-%m-%d %H:%M:%S")] $l"; done \
-    #     | tee -a $log_stdout
-    # )
-    # exec 2>>$log_stderr
-    
     # download
-    gallery-dl $line --download-archive $historybin 1> $log_stdout 2> $log_stderr
+    gallery-dl $line --download-archive $historybin
 done << FILE
 $url
 FILE
