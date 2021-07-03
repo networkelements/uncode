@@ -61,6 +61,6 @@ cp $historybin $send_directory02
 # マウントのみ
 # goofys --profile vultr --endpoint https://ewr1.vultrobjects.com picdir /vultr_picdir
 # goofys --profile vultr --endpoint https://ewr1.vultrobjects.com conffolder /vultr_conffolder
-s3fs picdir /mnt/s3mnt -o rw,url=https://ewr1.vultrobjects.com
+# s3fs picdir /mnt/s3mnt -o rw,url=https://ewr1.vultrobjects.com
 
 exit
