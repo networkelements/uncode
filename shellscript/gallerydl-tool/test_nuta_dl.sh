@@ -32,30 +32,18 @@ mkdir -p /var/log/gallery-dl
 
 cd /mnt/data_drive/picdir
 
-
-# # https://genzouw.com/entry/2020/01/06/120027/1845/
-# # https://qiita.com/YumaInaura/items/e3a19c6e2815d7deee33
-# # http://capm-network.com/?tag=%E3%82%B7%E3%82%A7%E3%83%AB%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%97%E3%83%88-%E3%83%AD%E3%82%B0%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%81%AE%E4%BD%9C%E6%88%90
-# # https://pokuwagata.hatenablog.com/entry/2018/12/03/002804
-exec 2>&1 >(
-  while read -r l; do echo "[$(date +"%Y-%m-%d %H:%M:%S")] $l"; done \
-    | tee -a $log_gallery
-)
-# exec 2>>$log_stderr
-# # 1> $log_stdout 2> $log_stderr
-
 while read line
 do
   # download
   # https://gist.github.com/mori-dev/613034
   if [ `echo $line | grep "twitter.com"` ]; then
-    gallery-dl $line --download-archive $historybin
+    echo $line
     
     # https://linuxfan.info/cat-string-in-shell
     line="$line /media"
-    gallery-dl $line --download-archive $historybin
+    echo $line
   else
-    gallery-dl $line --download-archive $historybin
+    echo $line
   fi
 done << FILE
 $url
@@ -69,7 +57,6 @@ echo "* date"
 echo "------------------------------------"
 date
 
-cp $historybin $send_directory02
 
 # マウントのみ
 # goofys --profile vultr --endpoint https://ewr1.vultrobjects.com picdir /vultr_picdir
