@@ -40,7 +40,7 @@ do
     echo $line
     
     # https://linuxfan.info/cat-string-in-shell
-    line="$line /media"
+    line="$line/media"
     echo $line
   else
     echo $line
