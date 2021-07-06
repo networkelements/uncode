@@ -38,13 +38,13 @@ cd /mnt/data_drive/picdir
 # http://capm-network.com/?tag=%E3%82%B7%E3%82%A7%E3%83%AB%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%97%E3%83%88-%E3%83%AD%E3%82%B0%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%81%AE%E4%BD%9C%E6%88%90
 # https://pokuwagata.hatenablog.com/entry/2018/12/03/002804
 
-exec 2>&1 >(
+exec 2>&1> >(
   while read -r l; do echo "[$(date +"%Y-%m-%d %H:%M:%S")] $l"; done \
     | tee -a $log_gallery
 )
 
 # exec 2>>$log_stderr
-# # 1> $log_stdout 2> $log_stderr
+2>&1> $log_gallery
 
 while read line
 do
