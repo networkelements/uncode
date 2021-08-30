@@ -1,7 +1,7 @@
 #!/bin/sh
 
 url=`cat /mnt/data_drv/git/github.com/networkelements/uncode/shellscript/gallerydl-tool/dlurlall.txt`
-historybin="/mnt/data_drv/git/github.com/networkelements/uncode/shellscript/gallerydl-tool/gallery-dl-history.bin"
+historybin="/mnt/data_drv/gallery-dl-history.bin"
 dl_directory="/mnt/data_drv/picdir/gallery-dl/"
 
 # danbooru_directory="$HOME/gallery-dl/danbooru/"
