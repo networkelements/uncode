@@ -82,13 +82,11 @@ https://twitter.com/yopan_z
 #https://hitomi.la/group/yuzu%20soft-all.html
 #https://hitomi.la/series/shinkyoku%20soukai%20polyphonica-all.html
 #https://hitomi.la/series/shinkyoku%20soukai%20polyphonica-japanese.html
-https://twitter.com/airplane_porn
-https://twitter.com/DailyJetPorn
 #https://seiga.nicovideo.jp/comic/23119
 #https://seiga.nicovideo.jp/comic/35172
 #https://seiga.nicovideo.jp/comic/41133
-x#https://seiga.nicovideo.jp/manga/list?user_id=13774926
-x#https://seiga.nicovideo.jp/manga/list?user_id=14119268=illust_all
+#x#https://seiga.nicovideo.jp/manga/list?user_id=13774926
+#x#https://seiga.nicovideo.jp/manga/list?user_id=14119268=illust_all
 #https://seiga.nicovideo.jp/user/illust/11644291?target=illust_all
 #https://seiga.nicovideo.jp/user/illust/118092427?target=illust_all
 #https://seiga.nicovideo.jp/user/illust/12128756?target=illust_all
@@ -140,7 +138,7 @@ x#https://seiga.nicovideo.jp/manga/list?user_id=14119268=illust_all
 #https://seiga.nicovideo.jp/user/illust/7853513?target=illust_all
 #https://seiga.nicovideo.jp/user/illust/78626192?target=illust_all
 #https://seiga.nicovideo.jp/user/illust/88053?target=illust_all
-http://skeb.jp/@misekissillust
+
 https://119things.tumblr.com/
 https://1sano09.tumblr.com/
 https://6w6y.tumblr.com/
@@ -189,6 +187,7 @@ https://baycityline.tumblr.com/
 https://bebe.fanbox.cc/
 https://beijuu.fanbox.cc/
 https://beizitengrener.lofter.com
+https://beizitengrener.lofter.com/
 https://berserkert.fanbox.cc/
 https://beruko14.fanbox.cc/
 https://bginga.fanbox.cc/
@@ -310,6 +309,7 @@ https://danbooru.donmai.us/posts?tags=john_mangalile
 https://danbooru.donmai.us/posts?tags=ka_keo
 https://danbooru.donmai.us/posts?tags=kaede_%28yumesaki_kaede%29
 https://danbooru.donmai.us/posts?tags=kageshio_%28276006%29
+https://danbooru.donmai.us/posts?tags=kagetomo_midori
 https://danbooru.donmai.us/posts?tags=kagura_tohru
 https://danbooru.donmai.us/posts?tags=kajuu
 https://danbooru.donmai.us/posts?tags=kanaria_hisagi
@@ -497,6 +497,7 @@ https://erimo.fanbox.cc/
 https://erugotto.fanbox.cc/
 https://eruruu.fanbox.cc/
 https://eta-klein.lofter.com
+https://eta-klein.lofter.com/
 https://eternity908.lofter.com/
 https://ett.fanbox.cc/
 https://expulse.fanbox.cc/
@@ -749,6 +750,7 @@ https://kurokumaa-blog.tumblr.com/
 https://kuronisiki.fanbox.cc/
 https://kuroshiro.fanbox.cc/
 https://kurozakor18.fanbox.cc/
+https://kusakasouji.fanbox.cc
 https://kusakasouji.fanbox.cc/
 https://kuuru.fanbox.cc/
 https://kyaroru.fanbox.cc/
@@ -763,6 +765,7 @@ https://lirseven.lofter.com/
 https://live.bilibili.com/133885
 https://lolikkodaisuki.fanbox.cc/
 https://lows21.fanbox.cc/
+https://lzzz9hv2.fanbox.cc
 https://m92.fanbox.cc/
 https://mamorurero.tumblr.com/
 https://marisayaka16.fanbox.cc/
@@ -784,6 +787,7 @@ https://misumisumi.tumblr.com/
 https://mitei398.fanbox.cc/
 https://mito-nagishiro.tumblr.com/
 https://miyabe3838.fanbox.cc/
+https://mkt8bgu5.fanbox.cc/
 https://mmu2000.fanbox.cc/
 https://mobile.twitter.com/dai_gazacy
 https://mobile.twitter.com/gsgsao
@@ -1087,6 +1091,7 @@ https://pawoo.net/@solo0730
 https://pawoo.net/@soubi_ph
 https://pawoo.net/@suzuhohotaru
 https://pawoo.net/@sy271367001
+https://pawoo.net/@syakugan100
 https://pawoo.net/@synno
 https://pawoo.net/@takunomi
 https://pawoo.net/@tentacle_z
@@ -1112,6 +1117,7 @@ https://pawoo.net/@zhurunbo1997
 https://pd-pallad.fanbox.cc/
 https://peacemaki.fanbox.cc/
 https://penpennel.tumblr.com/
+https://pixiv.net/users/1503044
 https://pkpkpppk.fanbox.cc/
 https://plasmidt407.lofter.com/
 https://poe7jwch.fanbox.cc/
@@ -1165,6 +1171,7 @@ https://seicoh.fanbox.cc/
 https://sekinor18.fanbox.cc/
 https://shi-chen.lofter.com
 https://shibanana.fanbox.cc/
+https://shingo-fuji.tumblr.com/
 https://shnjr4545.fanbox.cc/
 https://shoa.fanbox.cc/
 https://shotgunman1207.fanbox.cc/
@@ -1368,6 +1375,7 @@ https://skeb.jp/@mayuchi427
 https://skeb.jp/@meeeeton333
 https://skeb.jp/@mi_zu_to_ra
 https://skeb.jp/@milfaaaaa
+https://skeb.jp/@misekissillust
 https://skeb.jp/@mizumizuni1
 https://skeb.jp/@mo_chooon
 https://skeb.jp/@moketa11
@@ -1375,6 +1383,7 @@ https://skeb.jp/@mokochisa0116
 https://skeb.jp/@momi_yuro
 https://skeb.jp/@mono__chrome
 https://skeb.jp/@monoku_
+https://skeb.jp/@monsuun
 https://skeb.jp/@morino_MK2_ver7
 https://skeb.jp/@munyamunyako
 https://skeb.jp/@myonshiso
@@ -1463,6 +1472,7 @@ https://skeb.jp/@u_tnmn
 https://skeb.jp/@u_yukiguni
 https://skeb.jp/@u_yuz_xx
 https://skeb.jp/@ugume3732
+https://skeb.jp/@ukitakeponz
 https://skeb.jp/@unimon_e
 https://skeb.jp/@uratomomin
 https://skeb.jp/@ushiro_mukimuki
@@ -1554,6 +1564,7 @@ https://tomozero.fanbox.cc/
 https://tomozero.tumblr.com/
 https://tonarifree.fanbox.cc/
 https://tonee.fanbox.cc/
+https://tonitrus.fanbox.cc 
 https://torannpo.fanbox.cc/
 https://tori-mogura.fanbox.cc/
 https://torso.fanbox.cc/
@@ -1835,6 +1846,7 @@ https://twitter.com/DTmahotsukai
 https://twitter.com/DUTANBAOPO
 https://twitter.com/DXhkCoMTlYnTzbM
 https://twitter.com/D_kake2
+https://twitter.com/DailyJetPorn
 https://twitter.com/Dainagon_azk
 https://twitter.com/Daisonnya
 https://twitter.com/Daniel502514
@@ -2128,6 +2140,7 @@ https://twitter.com/MG_down
 https://twitter.com/MHKchen
 https://twitter.com/MHonG123
 https://twitter.com/MISSILE228apl
+https://twitter.com/MIURAHHA
 https://twitter.com/MIX7373
 https://twitter.com/MK_mod0
 https://twitter.com/MM95344300
@@ -2703,6 +2716,7 @@ https://twitter.com/aichaoekaki
 https://twitter.com/ainanakura
 https://twitter.com/ainezuiro
 https://twitter.com/airandou_
+https://twitter.com/airplane_porn
 https://twitter.com/aishan127
 https://twitter.com/ajifry3
 https://twitter.com/ajifry39
@@ -3531,6 +3545,11 @@ https://twitter.com/inpamas
 https://twitter.com/inre_kemomimi
 https://twitter.com/instovdr
 https://twitter.com/intent/user?screen_name=BTtamako
+https://twitter.com/intent/user?user_id=102616062
+https://twitter.com/intent/user?user_id=163246294
+https://twitter.com/intent/user?user_id=2915977440 
+https://twitter.com/intent/user?user_id=3052104750
+https://twitter.com/intent/user?user_id=49378668
 https://twitter.com/intent/user?user_id=745653526706065408
 https://twitter.com/inushins
 https://twitter.com/inutose
@@ -3616,6 +3635,8 @@ https://twitter.com/kagachi_SK
 https://twitter.com/kagalikagali
 https://twitter.com/kageoji_kakure
 https://twitter.com/kageshio
+https://twitter.com/kagetomo_info
+https://twitter.com/kagetomomidori
 https://twitter.com/kaguyuzu
 https://twitter.com/kahlua_rarara
 https://twitter.com/kaifei_29
@@ -3713,6 +3734,7 @@ https://twitter.com/kgproject2
 https://twitter.com/ki_no_nekko
 https://twitter.com/kibashi8a
 https://twitter.com/kidou_01
+https://twitter.com/kieed23232
 https://twitter.com/kiguchiko
 https://twitter.com/kiitikunn
 https://twitter.com/kikiyu698
@@ -4887,6 +4909,7 @@ https://twitter.com/snxxl
 https://twitter.com/soS11CK
 https://twitter.com/sohin_3
 https://twitter.com/sokosoko_fuan
+https://twitter.com/sol_god_dog
 https://twitter.com/sola_syu
 https://twitter.com/somemememeya
 https://twitter.com/someshpo
@@ -5686,10 +5709,12 @@ https://www.deviantart.com/napalmshell
 https://www.deviantart.com/nez-box
 https://www.deviantart.com/noccu
 https://www.deviantart.com/redapple999
+https://www.deviantart.com/sakugamania
 https://www.deviantart.com/sr1023
 https://www.deviantart.com/the-lm7
 https://www.fanbox.cc/@aaoshigatoutoi
 https://www.fanbox.cc/@abmayo
+https://www.fanbox.cc/@ace4506
 https://www.fanbox.cc/@agahari
 https://www.fanbox.cc/@aosaki
 https://www.fanbox.cc/@asanoha
@@ -5737,6 +5762,7 @@ https://www.fanbox.cc/@pd-pallad
 https://www.fanbox.cc/@penda97
 https://www.fanbox.cc/@pennel
 https://www.fanbox.cc/@piromizu
+https://www.fanbox.cc/@rin7914
 https://www.fanbox.cc/@s-taketora
 https://www.fanbox.cc/@senzyu
 https://www.fanbox.cc/@shidukieku
@@ -5836,6 +5862,10 @@ https://www.patreon.com/tamarun
 https://www.patreon.com/toneeartwork
 https://www.patreon.com/user?u=2397397&ty=2
 https://www.patreon.com/yohan1754
+https://www.pixiv.net/member.php?id=1759866
+https://www.pixiv.net/member.php?id=195301 
+https://www.pixiv.net/member.php?id=2160755 
+https://www.pixiv.net/member.php?id=8693520
 https://www.pixiv.net/users/1003192
 https://www.pixiv.net/users/10035197
 https://www.pixiv.net/users/10043305
@@ -6465,6 +6495,7 @@ https://www.pixiv.net/users/17491170
 https://www.pixiv.net/users/175143
 https://www.pixiv.net/users/17533338
 https://www.pixiv.net/users/1755173
+https://www.pixiv.net/users/1759866
 https://www.pixiv.net/users/17601301
 https://www.pixiv.net/users/176236
 https://www.pixiv.net/users/17633235
@@ -6823,6 +6854,7 @@ https://www.pixiv.net/users/22782
 https://www.pixiv.net/users/2278911
 https://www.pixiv.net/users/22794214
 https://www.pixiv.net/users/22797484
+https://www.pixiv.net/users/228078
 https://www.pixiv.net/users/22811970
 https://www.pixiv.net/users/22817970
 https://www.pixiv.net/users/228427
@@ -8911,13 +8943,3 @@ https://zirou.fanbox.cc/
 https://znsn-84u.fanbox.cc/
 https://zo3mie.fanbox.cc/
 https://zoe-xiao.fanbox.cc/
-
-
-https://twitter.com/sol_god_dog
-
-https://twitter.com/sg_uk_yako
-
-https://twitter.com/kieed23232
-
-
-
