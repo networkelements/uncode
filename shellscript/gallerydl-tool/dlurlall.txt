@@ -139,6 +139,7 @@ https://twitter.com/yopan_z
 #https://seiga.nicovideo.jp/user/illust/78626192?target=illust_all
 #https://seiga.nicovideo.jp/user/illust/88053?target=illust_all
 
+
 https://119things.tumblr.com/
 https://1sano09.tumblr.com/
 https://6w6y.tumblr.com/
@@ -890,6 +891,7 @@ https://nhentai.net/search/?q=aogiri+penta+language%3Ajapanese
 https://nhentai.net/search/?q=asanagi+language%3Ajapanese
 https://nhentai.net/search/?q=creayus+language%3Ajapanese
 https://nhentai.net/search/?q=hiyoshi+hana+language%3Ajapanese
+https://nhentai.net/search/?q=ishimuraya+language%3Ajapanese
 https://nhentai.net/search/?q=itaba+hiroshi+language%3Ajapanese
 https://nhentai.net/search/?q=jaku+denpa+language%3Ajapanese
 https://nhentai.net/search/?q=kannatsuki+noboru+language%3Ajapanese
@@ -1178,6 +1180,7 @@ https://saturndxy.fanbox.cc
 https://saturndxy.fanbox.cc/
 https://sawaya69.fanbox.cc/
 https://seicoh.fanbox.cc/
+https://seiga.nicovideo.jp/user/illust/16129307?target=illust_all
 https://sekinor18.fanbox.cc/
 https://shi-chen.lofter.com
 https://shibanana.fanbox.cc/
@@ -1594,6 +1597,7 @@ https://twitter.com/0721gomen1919
 https://twitter.com/0806rinto
 https://twitter.com/08_sagace
 https://twitter.com/09ra_19ra
+https://twitter.com/0Gedo0
 https://twitter.com/0_shusi_
 https://twitter.com/0honekawa0
 https://twitter.com/0kizakura
@@ -2050,6 +2054,8 @@ https://twitter.com/Joshua73982135
 https://twitter.com/JoveJun
 https://twitter.com/Jsngoat63
 https://twitter.com/Jump_Stingray
+https://twitter.com/Jumpei_Otogi
+https://twitter.com/JunProject
 https://twitter.com/JunkIMG
 https://twitter.com/Junkt729
 https://twitter.com/K0NA_KANA
@@ -2970,6 +2976,7 @@ https://twitter.com/cDkyrNtfC8tYesl
 https://twitter.com/c_nov00
 https://twitter.com/cabu73
 https://twitter.com/caburiaki
+https://twitter.com/cac_itinose
 https://twitter.com/cacca_VOSC
 https://twitter.com/caccaccca
 https://twitter.com/caffeine_nap
@@ -3340,6 +3347,7 @@ https://twitter.com/gomieros
 https://twitter.com/goomrrat
 https://twitter.com/goriro9999
 https://twitter.com/gorou_0907
+https://twitter.com/gotokuayashi
 https://twitter.com/gotyou
 https://twitter.com/gr_morig
 https://twitter.com/grandarbo
@@ -3729,6 +3737,7 @@ https://twitter.com/kara_n_
 https://twitter.com/karamone_ze
 https://twitter.com/karasu_s
 https://twitter.com/karda_nui
+https://twitter.com/karin_blueV1
 https://twitter.com/karin_bluev1
 https://twitter.com/karintou144
 https://twitter.com/karoro3rd
@@ -6231,6 +6240,7 @@ https://www.pixiv.net/users/13566060
 https://www.pixiv.net/users/135770
 https://www.pixiv.net/users/13590240
 https://www.pixiv.net/users/13606041
+https://www.pixiv.net/users/13611200
 https://www.pixiv.net/users/13611704
 https://www.pixiv.net/users/13616358
 https://www.pixiv.net/users/13626085
@@ -7286,6 +7296,7 @@ https://www.pixiv.net/users/29432311
 https://www.pixiv.net/users/29449
 https://www.pixiv.net/users/29453296
 https://www.pixiv.net/users/29461085
+https://www.pixiv.net/users/2946400
 https://www.pixiv.net/users/29498282
 https://www.pixiv.net/users/29510681
 https://www.pixiv.net/users/295119
@@ -8102,6 +8113,7 @@ https://www.pixiv.net/users/50314970
 https://www.pixiv.net/users/5032832
 https://www.pixiv.net/users/503872
 https://www.pixiv.net/users/50395174
+https://www.pixiv.net/users/5040807
 https://www.pixiv.net/users/5041293
 https://www.pixiv.net/users/5046527
 https://www.pixiv.net/users/50503023
@@ -8177,6 +8189,7 @@ https://www.pixiv.net/users/5282110
 https://www.pixiv.net/users/52852
 https://www.pixiv.net/users/52865892
 https://www.pixiv.net/users/5287
+https://www.pixiv.net/users/5287091
 https://www.pixiv.net/users/529070
 https://www.pixiv.net/users/529590
 https://www.pixiv.net/users/529858
