@@ -139,7 +139,6 @@ https://twitter.com/yopan_z
 #https://seiga.nicovideo.jp/user/illust/78626192?target=illust_all
 #https://seiga.nicovideo.jp/user/illust/88053?target=illust_all
 
-
 https://119things.tumblr.com/
 https://1sano09.tumblr.com/
 https://6w6y.tumblr.com/
@@ -469,6 +468,7 @@ https://danbooru.donmai.us/posts?tags=yavalley
 https://danbooru.donmai.us/posts?tags=yaya_hinata
 https://danbooru.donmai.us/posts?tags=yitiao_er-hua
 https://danbooru.donmai.us/posts?tags=yokai
+https://danbooru.donmai.us/posts?tags=yom_%28ymayma00ss%29
 https://danbooru.donmai.us/posts?tags=you_%28yoyou%29
 https://danbooru.donmai.us/posts?tags=ytterbium169
 https://danbooru.donmai.us/posts?tags=yuki_%28asayuki101%29
@@ -871,6 +871,7 @@ https://nhentai.net/search/?q=774+language%3Ajapanese
 https://nhentai.net/search/?q=Ajisaidenden+language%3Ajapanese
 https://nhentai.net/search/?q=Alemateorema+Kobayashi+Youkoh+%E3%82%A2%E3%83%AC%E3%83%9E%E3%83%86%E3%82%AA%E3%83%AC%E3%83%9E+%E5%B0%8F%E6%9E%97%E7%94%B1%E9%AB%98+language%3Ajapanese
 https://nhentai.net/search/?q=Butcha-U+language%3Ajapanese
+https://nhentai.net/search/?q=COMIC+AUN+language%3Ajapanese
 https://nhentai.net/search/?q=Comic+Kairakuten+language%3Ajapanese
 https://nhentai.net/search/?q=Comic+Shitsurakuten+language%3Ajapanese
 https://nhentai.net/search/?q=Fue+Ronpaia+language%3Ajapanese
@@ -891,6 +892,9 @@ https://nhentai.net/search/?q=aogiri+penta+language%3Ajapanese
 https://nhentai.net/search/?q=asanagi+language%3Ajapanese
 https://nhentai.net/search/?q=creayus+language%3Ajapanese
 https://nhentai.net/search/?q=hiyoshi+hana+language%3Ajapanese
+https://nhentai.net/search/?q=inbou+no+teikoku+language%3Ajapanese
+https://nhentai.net/search/?q=indo-curry+language%3Ajapanese
+https://nhentai.net/search/?q=ishimura+language%3Ajapanese
 https://nhentai.net/search/?q=ishimuraya+language%3Ajapanese
 https://nhentai.net/search/?q=itaba+hiroshi+language%3Ajapanese
 https://nhentai.net/search/?q=jaku+denpa+language%3Ajapanese
@@ -898,6 +902,7 @@ https://nhentai.net/search/?q=kannatsuki+noboru+language%3Ajapanese
 https://nhentai.net/search/?q=makita+yoshiharu+language%3Ajapanese
 https://nhentai.net/search/?q=miwa+yoshikazu+language%3Ajapanese
 https://nhentai.net/search/?q=nakamine+hiroshi+language%3Ajapanese
+https://nhentai.net/search/?q=nhoooooooooooooo+language%3Ajapanese
 https://nhentai.net/search/?q=ponkotsu+works+language%3Ajapanese
 https://nhentai.net/search/?q=rangetsu+language%3Ajapanese
 https://nhentai.net/search/?q=saeki+hokuto+language%3Ajapanese
@@ -2425,6 +2430,7 @@ https://twitter.com/SIVAO_
 https://twitter.com/SK0000112
 https://twitter.com/SK405chan/media
 https://twitter.com/SL8610
+https://twitter.com/SNM_sunimi3
 https://twitter.com/SOLar_Bim
 https://twitter.com/SSSILUVA
 https://twitter.com/SSkylarks
@@ -3481,6 +3487,7 @@ https://twitter.com/hitomio16
 https://twitter.com/hitsuji_no_rice
 https://twitter.com/hitsukuya
 https://twitter.com/hive_yuegong
+https://twitter.com/hiyasaka001
 https://twitter.com/hiyashi_yaki
 https://twitter.com/hiyori_kohal
 https://twitter.com/hizaka12
@@ -4995,6 +5002,7 @@ https://twitter.com/soratoriman
 https://twitter.com/soregasiya
 https://twitter.com/sorotu
 https://twitter.com/soso_chan_dayo
+https://twitter.com/sosogi_m
 https://twitter.com/sotsunaku
 https://twitter.com/soubi_PH
 https://twitter.com/soubi_ph
