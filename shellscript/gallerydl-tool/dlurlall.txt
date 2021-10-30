@@ -139,6 +139,7 @@ https://twitter.com/yopan_z
 #https://seiga.nicovideo.jp/user/illust/78626192?target=illust_all
 #https://seiga.nicovideo.jp/user/illust/88053?target=illust_all
 
+http://twitter.com/tai_ichi_2
 https://119things.tumblr.com/
 https://1sano09.tumblr.com/
 https://6w6y.tumblr.com/
@@ -249,6 +250,7 @@ https://danbooru.donmai.us/posts?tags=boo_1
 https://danbooru.donmai.us/posts?tags=bu4321
 https://danbooru.donmai.us/posts?tags=c00oh
 https://danbooru.donmai.us/posts?tags=cacao_%28chocotto%29
+https://danbooru.donmai.us/posts?tags=cafekun
 https://danbooru.donmai.us/posts?tags=cero_%28last2stage%29
 https://danbooru.donmai.us/posts?tags=chika_%28toumei_kousoku%29
 https://danbooru.donmai.us/posts?tags=chiri_%28ch%21%29
@@ -334,6 +336,7 @@ https://danbooru.donmai.us/posts?tags=koku
 https://danbooru.donmai.us/posts?tags=kouki_hanada
 https://danbooru.donmai.us/posts?tags=koyukomu
 https://danbooru.donmai.us/posts?tags=kuroshiro00
+https://danbooru.donmai.us/posts?tags=kusunokiokonogi
 https://danbooru.donmai.us/posts?tags=kyou_zip
 https://danbooru.donmai.us/posts?tags=lanzi_%28415460661%29
 https://danbooru.donmai.us/posts?tags=liduke
@@ -916,6 +919,7 @@ https://nhentai.net/search/?q=yaya+hinata+language%3Ajapanese
 https://ni-zma.tumblr.com/
 https://nibosi.tumblr.com/
 https://nijie.info/members.php?id=1047088
+https://nijie.info/members.php?id=108830
 https://nijie.info/members.php?id=1532455
 https://nijie.info/members.php?id=157493
 https://nijie.info/members.php?id=166844
@@ -1562,6 +1566,7 @@ https://swav-works.tumblr.com/
 https://syannhaineko.fanbox.cc/
 https://synno.fanbox.cc/
 https://syurinini.tumblr.com/
+https://tai-ichi.fanbox.cc/
 https://taiga1o96.tumblr.com/
 https://tan0303.tumblr.com/
 https://tanaka1945.tumblr.com/
@@ -2073,6 +2078,7 @@ https://twitter.com/KEN_ill
 https://twitter.com/KIYOSATO_0928
 https://twitter.com/KIncoraK
 https://twitter.com/KOOLKNIGHTS
+https://twitter.com/KOROSANAIDER
 https://twitter.com/KSUWABE
 https://twitter.com/KShin0922
 https://twitter.com/KUSHINAKA
@@ -4648,6 +4654,7 @@ https://twitter.com/pyon_Kti
 https://twitter.com/pyor6P0r6SVzLoa
 https://twitter.com/pyz90
 https://twitter.com/qLakwnd
+https://twitter.com/qaltted
 https://twitter.com/qdlin_u_u
 https://twitter.com/qhrrb3409
 https://twitter.com/qiandaiyiyu
@@ -5115,6 +5122,7 @@ https://twitter.com/takunomi_athome
 https://twitter.com/tala_lan
 https://twitter.com/talt_ges
 https://twitter.com/tama_64
+https://twitter.com/tama_morning
 https://twitter.com/tamaao31241
 https://twitter.com/tamago_423
 https://twitter.com/tamao_tamaki
@@ -5561,6 +5569,7 @@ https://twitter.com/yukataro
 https://twitter.com/yuki_kawachi
 https://twitter.com/yuki_shuri_0
 https://twitter.com/yukiho9yo
+https://twitter.com/yukimushi_kaido
 https://twitter.com/yukin0128
 https://twitter.com/yukinoko_mina
 https://twitter.com/yukishin1
@@ -6879,6 +6888,7 @@ https://www.pixiv.net/users/21441802
 https://www.pixiv.net/users/21450575
 https://www.pixiv.net/users/21516727
 https://www.pixiv.net/users/21560748
+https://www.pixiv.net/users/2156130
 https://www.pixiv.net/users/2159670
 https://www.pixiv.net/users/215983
 https://www.pixiv.net/users/21601245
@@ -6904,6 +6914,7 @@ https://www.pixiv.net/users/2194135
 https://www.pixiv.net/users/2197001
 https://www.pixiv.net/users/22002038
 https://www.pixiv.net/users/2203048
+https://www.pixiv.net/users/22048673
 https://www.pixiv.net/users/2205262
 https://www.pixiv.net/users/22069033
 https://www.pixiv.net/users/2213
@@ -7202,6 +7213,7 @@ https://www.pixiv.net/users/2744600
 https://www.pixiv.net/users/2745520
 https://www.pixiv.net/users/274594
 https://www.pixiv.net/users/27467421
+https://www.pixiv.net/users/274961
 https://www.pixiv.net/users/2750098
 https://www.pixiv.net/users/27517
 https://www.pixiv.net/users/27545030
@@ -7735,6 +7747,7 @@ https://www.pixiv.net/users/392810
 https://www.pixiv.net/users/39293879
 https://www.pixiv.net/users/39367761
 https://www.pixiv.net/users/3937352
+https://www.pixiv.net/users/3938010
 https://www.pixiv.net/users/3940309
 https://www.pixiv.net/users/39431130
 https://www.pixiv.net/users/394365
@@ -8090,6 +8103,7 @@ https://www.pixiv.net/users/4952461
 https://www.pixiv.net/users/49527852
 https://www.pixiv.net/users/49544
 https://www.pixiv.net/users/4956073
+https://www.pixiv.net/users/49570
 https://www.pixiv.net/users/4959310
 https://www.pixiv.net/users/4959616
 https://www.pixiv.net/users/49637374
@@ -8214,6 +8228,7 @@ https://www.pixiv.net/users/53201994
 https://www.pixiv.net/users/53299579
 https://www.pixiv.net/users/5332956
 https://www.pixiv.net/users/53350603
+https://www.pixiv.net/users/533550
 https://www.pixiv.net/users/53358941
 https://www.pixiv.net/users/53416824
 https://www.pixiv.net/users/5342006
@@ -8476,6 +8491,7 @@ https://www.pixiv.net/users/64009988
 https://www.pixiv.net/users/6402613
 https://www.pixiv.net/users/64048
 https://www.pixiv.net/users/64080282
+https://www.pixiv.net/users/6409
 https://www.pixiv.net/users/6415776
 https://www.pixiv.net/users/6420378
 https://www.pixiv.net/users/64208336
@@ -8627,6 +8643,7 @@ https://www.pixiv.net/users/722379
 https://www.pixiv.net/users/72357
 https://www.pixiv.net/users/7246
 https://www.pixiv.net/users/7253174
+https://www.pixiv.net/users/725591
 https://www.pixiv.net/users/7263576
 https://www.pixiv.net/users/72731
 https://www.pixiv.net/users/7287505
@@ -8750,12 +8767,14 @@ https://www.pixiv.net/users/8350098
 https://www.pixiv.net/users/8355203
 https://www.pixiv.net/users/836739
 https://www.pixiv.net/users/83739
+https://www.pixiv.net/users/839605
 https://www.pixiv.net/users/83967
 https://www.pixiv.net/users/8396713
 https://www.pixiv.net/users/8399137
 https://www.pixiv.net/users/8399415
 https://www.pixiv.net/users/84035
 https://www.pixiv.net/users/841020
+https://www.pixiv.net/users/8415301
 https://www.pixiv.net/users/843975
 https://www.pixiv.net/users/84705
 https://www.pixiv.net/users/848141
@@ -9008,6 +9027,7 @@ https://www.weibo.com/u/danlanlanzi
 https://www.youtube.com/%E8%A5%BF%E6%B2%A25%E3%8D%89
 https://xxnishizawa.tumblr.com/
 https://yama-surf.fanbox.cc/
+https://yande.re/pool/show/673
 https://yande.re/post/show/384700
 https://yande.re/post?tags=aishan_%28aaaishan%29
 https://yande.re/post?tags=anparu98
@@ -9024,6 +9044,7 @@ https://yande.re/post?tags=nemu_%28nora%29
 https://yande.re/post?tags=senren_banka
 https://yande.re/post?tags=shi_chen
 https://yande.re/post?tags=sora_yoshitake_yuda
+https://yande.re/post?tags=unaji
 https://yande.re/post?tags=xretakex
 https://yande.re/post?tags=yuzu-soft
 https://yanyo.fanbox.cc/
