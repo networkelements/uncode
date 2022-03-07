@@ -32,6 +32,7 @@ mkdir -p /var/log/gallery-dl
 
 cd /mnt/data_drv/picdir
 
+kushi="10.10.10.10:3128"
 
 # https://genzouw.com/entry/2020/01/06/120027/1845/
 # https://qiita.com/YumaInaura/items/e3a19c6e2815d7deee33
@@ -51,13 +52,13 @@ do
   # download
   # https://gist.github.com/mori-dev/613034
   if [ `echo $line | grep "twitter.com"` ]; then
-    gallery-dl $line --download-archive $historybin
+    gallery-dl $line --proxy $kushi --download-archive $historybin
     
     # https://linuxfan.info/cat-string-in-shell
     line="$line/media"
-    gallery-dl $line --download-archive $historybin
+    gallery-dl $line --proxy $kushi --download-archive $historybin
   else
-    gallery-dl $line --download-archive $historybin
+    gallery-dl $line --proxy $kushi --download-archive $historybin
   fi
 done << FILE
 $url
