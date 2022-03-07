@@ -80,3 +80,5 @@ cp $historybin $send_directory02
 # s3fs picdir /mnt/s3mnt -o rw,url=https://ewr1.vultrobjects.com
 
 exit
+
+
